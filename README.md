@@ -12,7 +12,7 @@ At the beginning of the year, he records the pupils' performance in the long jum
 <p>There are now 2 assessment options:</p>
 
 <p>1. The grade is determined depending on the jump distance:</p>
-<p>
+
 |  Jump distance  |    Grade     |
 |:---------------:|:------------:|
 |  more than 5m   |      1       |
@@ -21,5 +21,4 @@ At the beginning of the year, he records the pupils' performance in the long jum
 |  3.50 - 3.99m   |      4       |
 |  3.00 - 3.49m   |      5       |
 |  Less than 3m   |      6       |
-</p>
 
